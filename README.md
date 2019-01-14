@@ -9,4 +9,4 @@
 
 Console Log
 
-![Console Log](img)
+![Console Log](img/console.png "Console Log")
